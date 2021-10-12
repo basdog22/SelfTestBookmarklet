@@ -1,0 +1,1 @@
+Just change the bookmarklet.js file and set your data on the elements_1 and elements_2 objects
