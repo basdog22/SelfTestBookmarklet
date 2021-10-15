@@ -1,21 +1,23 @@
-Just change the bookmarklet.js file and set your data on the elements_1 and elements_2 objects
+Just change the bookmarklet.js file and set your data on the details object
 
-**elements_1**
+**details**
 
-"child_firstname": "John", /*//Kid first name*/
+let details = {
 
-"child_surname": "Doe", /*//Kid last name*/
-
-"child_fathername": "Jack", /*//Father first name*/
-
-"child_mothername": "Mary", /*//Mother first name*/
-
-"child_birth_date-day": "23", /*// Birth day*/
-
-"child_birth_date-month": "06",/*// Birth month*/
-
-"child_birth_date-year": "2014", /*//Birth year*/
-
-**elements_2**
-
-"amka": "23061400000", /*//Kid amka*/
+        'child_firstname':        'Little',
+        
+        'child_surname':          'Doe',
+        
+        'child_fathername':       'John',
+        
+        'child_mothername':       'Jane',
+        
+        'child_birth_date-day':   '01',
+        
+        'child_birth_date-month': '01',
+        
+        'child_birth_date-year':  '2010',
+        
+        'amka':                   '01011099999'
+        
+    };
